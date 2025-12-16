@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ItsHiteshKr&show_icons=true&theme=radical" />
 </p>
 
@@ -65,7 +65,7 @@
   <img src="https://streak-stats.demolab.com?user=ItsHiteshKr&theme=radical" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHiteshKr&layout=compact&theme=radical" />
 </p>
 
@@ -74,7 +74,7 @@
 ## 🚀 Featured Projects
 - 🏢 **Intranet Portal**  
   HR Management, Timesheets, Leave, Policies  
-  *(FastAPI • React • MySQL • AWS)*
+  *(FastAPI • React.js • MySQL • AWS)*
 
 - 📈 **Stock App Backend**  
   Live Market Data, Authentication, REST APIs  
@@ -82,7 +82,7 @@
 
 - 🔍 **Google Search Clone**  
   Responsive UI with real-time search  
-  *(React • Tailwind CSS)*
+  *(React.js • Tailwind CSS)*
 
 - 🛒 **E-Commerce Platform**  
   Academic Full Stack Project  
@@ -91,6 +91,7 @@
 
 ## 🏆 Highlights
 - ✅ Production-level **AWS deployments**
+- ✅ Designed & built **Responsive Frontenend UI**
 - ✅ Designed & built **scalable backend APIs**
 - ✅ Strong understanding of **full stack workflows**
 
