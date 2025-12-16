@@ -50,15 +50,14 @@
 ---
 
 ## 🏆 Achievements
-- ✅ CSIR Exam – Good Rank
 - ✅ AWS Deployment Experience
 - ✅ Multiple Full-Stack Projects Deployed
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/hitesh-kumar-088184240/
+- 📧 Email: hiteshbih11@gmail.com
 
 ---
 
