@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hitesh Kumar</h1>
-<h3 align="center">Full Stack Developer | FastAPI • React • AWS</h3>
+<h3 align="center">Full Stack Developer | FastAPI • React.js • AWS</h3>
 
 <p align="center">
+🎓 12th PCM 2021 • College of commerce,Arts & Science Patna <br/>
 🎓 B.Tech (CSE) • 2025 • GKV Haridwar <br/>
-🚀 Backend-focused Full Stack Developer <br/>
+🚀 Full Stack Developer <br/>
 🎯 Open to Research & Industry Roles
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Building **Intranet Portal** & **Stock Market Backend Systems**
+- 🔭 Building **Intranet Portal for Internal Employee** & **Stock Market Backend Systems**
 - ⚙️ Hands-on with **FastAPI, REST APIs, MySQL**
 - ☁️ Deploying & managing apps on **AWS EC2 + Nginx**
 - 🌱 Learning **Scalable Backend Architecture & Cloud Practices**
@@ -21,17 +22,28 @@
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodejs.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastapi.svg" width="40" />
+<!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" width="40" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi" /> -->
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
+
 </p>
 
 ### ☁️ DevOps & Tools
