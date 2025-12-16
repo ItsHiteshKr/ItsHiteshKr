@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hitesh Kumar</h1>
-<h3 align="center">Full Stack Developer | FastAPI • React.js • AWS</h3>
+<h1 align="left">Hi 👋, I'm Hitesh Kumar</h1>
+<h3 align="left">Full Stack Developer | FastAPI • React.js • AWS</h3>
 
-<p align="center">
+<p align="left">
 🎓 12th PCM 2021 • College of commerce,Arts & Science Patna <br/>
 🎓 B.Tech (CSE) • 2025 • GKV Haridwar <br/>
 🚀 Full Stack Developer <br/>
