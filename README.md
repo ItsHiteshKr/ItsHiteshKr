@@ -1,9 +1,8 @@
 # Hi 👋 I'm Hitesh Kumar  
 
-🎓 Final Year B.Tech (CSE) @ GKV Haridwar  
-💻 Full Stack & Backend Developer  
-🚀 Interested in FastAPI, React, AWS & System Design  
-📚 CSIR Exam Qualified | Research-Oriented  
+🎓 Completed B.Tech (CSE) 2025  @ GKV Haridwar  
+💻 Full Stack Developer  
+🚀 Interested in FastAPI, React, AWS.
 
 ---
 
