@@ -61,11 +61,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ItsHiteshKr&show_icons=true&theme=radical" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=ItsHiteshKr&theme=radical" />
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHiteshKr&layout=compact&theme=radical" />
 </p>
 
@@ -76,11 +76,11 @@
   HR Management, Timesheets, Leave, Policies  
   *(FastAPI • React.js • MySQL • AWS)*
 
-- 📈 **Stock App Backend**  
+- 📈 **Stock App Backend(src='https://github.com/ItsHiteshKr/stock_backend')**  
   Live Market Data, Authentication, REST APIs  
   *(FastAPI • MySQL • Redis)*
 
-- 🔍 **Google Search Clone**  
+- 🔍 **Google Search Clone(src='https://hite-shsearch-app.netlify.app/')**  
   Responsive UI with real-time search  
   *(React.js • Tailwind CSS)*
 
