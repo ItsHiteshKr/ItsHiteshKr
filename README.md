@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Hitesh Kumar</h1>
-<h2 align="left">Full Stack Developer | FastAPI • React.js • AWS</h2>
+<h3 align="left">Full Stack Developer | FastAPI • React.js • AWS</h3>
 
 ---
 
@@ -99,7 +99,7 @@
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/hitesh-kumar-088184240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hitesh%20Kumar-blue?logo=linkedin" />
@@ -114,4 +114,3 @@
 <p align="center">
 ⭐ If you find my work useful, consider starring the repositories!
 </p>
-
