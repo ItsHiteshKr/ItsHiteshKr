@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi 👋, I'm Hitesh Kumar</h1>
 <h3 align="left">Full Stack Developer | FastAPI • React.js • AWS</h3>
 
@@ -14,13 +13,8 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Building a **Production-ready Intranet Portal** for internal employee management, including:
-- HR Management, Timesheets, Leave & Policy Modules  
-- Role-based access (Admin / HR / Employee)
-- Backend APIs built using FastAPI with MySQL  
-- Deployed on AWS EC2 with Nginx 
 - 🔭 Building **Intranet Portal for Internal Employee** & **Stock Market Backend Systems**
-- ⚙️ Hands-on with **FastAPI, REST APIs, MySQL**
+- ⚙️ Hands-on with **React.js, Express.js, FastAPI, REST APIs, MySQL**
 - ☁️ Deploying & managing apps on **AWS EC2 + Nginx**
 - 🌱 Learning **Scalable Backend Architecture & Cloud Practices**
 
@@ -41,6 +35,7 @@
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![ExpressJS](https://skillicons.dev/icons?i=expressjs)
+<p>Python FastApi Node.js Express.js</p>
 
 ### 🗄️ Database
 ![MySQL](https://skillicons.dev/icons?i=mysql)
