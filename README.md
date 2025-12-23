@@ -1,4 +1,3 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Hitesh%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20FastAPI%20%7C%20React%20%7C%20AWS&descAlignY=65)
 
 <h1 align="left">Hi 👋, I'm Hitesh Kumar</h1>
 <h3 align="left">Full Stack Developer | FastAPI • React.js • AWS</h3>
