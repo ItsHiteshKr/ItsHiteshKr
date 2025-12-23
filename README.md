@@ -6,8 +6,8 @@
 ---
 
 <p align="left">
+🎓 B.Tech (CSE) • 2025 • Gurukul Kangri Vishwavidalaya Haridwar <br/>
 🎓 12th PCM 2021 • College of commerce,Arts & Science Patna <br/>
-🎓 B.Tech (CSE) • 2025 • GKV Haridwar <br/>
 🚀 Full Stack Developer <br/>
 🎯 Open to Research & Industry Roles
 </p>
@@ -15,6 +15,11 @@
 ---
 
 ## 🚀 About Me
+- 🔭 Building a **Production-ready Intranet Portal** for internal employee management, including:
+- HR Management, Timesheets, Leave & Policy Modules  
+- Role-based access (Admin / HR / Employee)
+- Backend APIs built using FastAPI with MySQL  
+- Deployed on AWS EC2 with Nginx 
 - 🔭 Building **Intranet Portal for Internal Employee** & **Stock Market Backend Systems**
 - ⚙️ Hands-on with **FastAPI, REST APIs, MySQL**
 - ☁️ Deploying & managing apps on **AWS EC2 + Nginx**
