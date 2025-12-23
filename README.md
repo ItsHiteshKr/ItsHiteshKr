@@ -86,9 +86,9 @@
 
 ## 📫 Let's Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/hitesh-kumar-088184240))
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome)](https://your-portfolio-link)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:yourmail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:hiteshbih1@gmail.com)
 
 
 ---
