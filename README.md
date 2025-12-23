@@ -29,7 +29,7 @@
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
-<p style="color:#3b82f6">
+<p style="color:#3b82f6; font-weight:500;>
 HTML | CSS | Tailwind | JavaScript | React
 </p>
 
