@@ -29,12 +29,8 @@
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
-<p style="color:#3b82f6; font-weight:500;">
-HTML | CSS | Tailwind | JavaScript | React
-</p>
-
-<p align="center">
-HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp; Tailwind &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; React
+<p style="color:blue; font-weight:100;">
+HTML | CSS | Tailwind | JavaScript | React.js
 </p>
 
 
@@ -42,20 +38,20 @@ HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp; Tailwind &nbsp;|&nbsp; JavaScript &nbsp;|&n
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![ExpressJS](https://skillicons.dev/icons?i=expressjs)
-<p>FastApi||Node.js||Express.js</p>
+<p>FastApi | Node.js | Express.js</p>
 
 ### 🗄️ Database
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Redis](https://skillicons.dev/icons?i=redis)
-<p>MySQL||MongoDB||Redis</p>
+<p>MySQL | MongoDB | Redis</p>
 
 ### ☁️ DevOps & Tools
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Nginx](https://skillicons.dev/icons?i=nginx)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Linux](https://skillicons.dev/icons?i=linux)
-<p>AWS||Nginx||Git||Linux</p>
+<p>AWS | Nginx | Git | Linux</p>
 
 ---
 
