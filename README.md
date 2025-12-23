@@ -33,6 +33,11 @@
 HTML | CSS | Tailwind | JavaScript | React
 </p>
 
+<p align="center">
+HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp; Tailwind &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; React
+</p>
+
+
 ### ⚙️ Backend
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
