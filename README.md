@@ -29,8 +29,9 @@
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
-<p text="blue"
-  >HTML||CSS||Tailwind||JavaScript||React</p>
+<p style="color:#3b82f6">
+HTML | CSS | Tailwind | JavaScript | React
+</p>
 
 ### ⚙️ Backend
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
