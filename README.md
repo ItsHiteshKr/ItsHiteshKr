@@ -29,37 +29,22 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> 
-</p>
 
 ### ⚙️ Backend
-<p>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodejs.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastapi.svg" width="40" />
-<!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" width="40" /> -->
-  <!-- <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi" /> -->
-</p>
+![Python](https://skillicons.dev/icons?i=python)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
 
 ### 🗄️ Database
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
-
-</p>
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
 
 ### ☁️ DevOps & Tools
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> 
-</p>
+![AWS](https://skillicons.dev/icons?i=aws)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
