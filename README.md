@@ -92,15 +92,12 @@
 
 ---
 
-## 📫 Let's Connect
-<p>
-  <a href="https://www.linkedin.com/in/hitesh-kumar-088184240/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hitesh%20Kumar-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:hiteshbih11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hiteshbih11@gmail.com-red?logo=gmail" />
-  </a>
-</p>
+## 📫 Let's Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome)](https://your-portfolio-link)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:yourmail@gmail.com)
+
 
 ---
 
