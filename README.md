@@ -52,19 +52,6 @@
 
 ## 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsHiteshKr&show_icons=true&theme=radical" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ItsHiteshKr&theme=radical" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHiteshKr&layout=compact&theme=radical" />
-</p>
-## 📊 GitHub Stats
-
 ![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsHiteshKr&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHiteshKr&layout=compact&theme=tokyonight)
