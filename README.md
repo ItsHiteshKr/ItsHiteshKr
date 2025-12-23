@@ -31,16 +31,17 @@
 
 ### 💻 Frontend
 
-![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
 
 ### ⚙️ Backend
 ![Python](https://skillicons.dev/icons?i=python)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![ExpressJS](https://skillicons.dev/icons?i=expressjs)
 
 ### 🗄️ Database
 ![MySQL](https://skillicons.dev/icons?i=mysql)
