@@ -64,15 +64,15 @@ HTML | CSS | Tailwind | JavaScript | React.js
 ---
 
 ## 🚀 Featured Projects
-- 🏢 **Intranet Portal**  
+- 🏢 **Intranet Portal (src='https://github.com/ItsHiteshKr/intranet-portal')**  
   HR Management, Timesheets, Leave, Policies  
   *(FastAPI • React.js • MySQL • AWS)*
 
-- 📈 **Stock App Backend(src='https://github.com/ItsHiteshKr/stock_backend')**  
+- 📈 **Stock App Backend (src='https://github.com/ItsHiteshKr/stock_backend')**  
   Live Market Data, Authentication, REST APIs  
   *(FastAPI • MySQL • Redis)*
 
-- 🔍 **Google Search Clone(src='https://hite-shsearch-app.netlify.app/')**  
+- 🔍 **Google Search Clone (src='https://hite-shsearch-app.netlify.app/')**  
   Responsive UI with real-time search  
   *(React.js • Tailwind CSS)*
 
