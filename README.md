@@ -55,14 +55,6 @@ HTML | CSS | Tailwind | JavaScript | React.js
 
 ---
 
-## 📊 GitHub Activity
-
-![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsHiteshKr&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHiteshKr&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Featured Projects
 - 🏢 **Intranet Portal (src='https://github.com/ItsHiteshKr/intranet-portal')**  
   HR Management, Timesheets, Leave, Policies  
