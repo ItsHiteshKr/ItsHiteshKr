@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Hitesh Kumar</h1>
-<h3 align="left">Full Stack Developer | FastAPI • React.js • AWS</h3>
+<h3 align="left">Full Stack Developer | React.js Developer • AWS</h3>
 
 ---
 
